@@ -1,0 +1,11 @@
+{
+  "name": "mibexx/mysql-deploy",
+  "autoload": {
+    "psr-0": {
+      "Mibexx\\MysqlDeploy": "src"
+    }
+  },
+  "bin": [
+    "bin/mysqldeploy"
+  ]
+}
